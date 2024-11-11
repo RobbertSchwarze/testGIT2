@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Taak 1 is voltooid.");
+        System.out.println("Taak 2 is voltooid en btw daarmee de User Story");
     }
 }
